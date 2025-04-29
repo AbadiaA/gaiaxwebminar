@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3c-ccg.github.io/lds-jws2020/contexts/v1/"
+  ],
+  "id": "did:web:raw.githubusercontent.com:AbadiaA:gaiaxwebminar:main",
+  "verificationMethod": [
+    {
+      "id": "did:web:raw.githubusercontent.com:AbadiaA:gaiaxwebminar:main",
+      "type": "JsonWebKey2020",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "o06yJrnODgNzdQUDseXLvawrfyGdu-LjbHXlI37ZRzx1QPbCG2DSIx3lYl0nuwXL1s1z_KEjoeNA_7zfdQB7o6I7FbNtcIDDzoxKc796xC69AKqGdIYs1-9g4mwlS4dkG7glxTsKDHrm8Nu4Ie9l7AG6ZE7yJuv-HOcpvjTLW-C99gtwFNyfBEwY88Ic0J6vrtJ3aG2ZsVywRTfWNN7DqFNje3sGDCGgTHEca2gG4qhn-b5o8tqjAJFgrlneMPtV3UOlRwMlpDkAe7RNAWFTM1HdQr2y2wjhfNSmMC4b8lrrSh-YnZ8oCT-cozeZe9Qgs2S27J6Cln1FmOsGlh4ZzQ",
+        "e": "AQAB",
+        "alg": "RS256",
+        "x5u": "https://raw.githubusercontent.com/AbadiaA/gaiaxwebminar/main/cert.pem"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:raw.githubusercontent.com:AbadiaA:gaiaxwebminar:main"
+  ]
+}
