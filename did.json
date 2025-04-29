@@ -3,10 +3,10 @@
     "https://www.w3.org/ns/did/v1",
     "https://w3c-ccg.github.io/lds-jws2020/contexts/v1/"
   ],
-  "id": "did:web:https://raw.githubusercontent.com:AbadiaA:gaiaxwebminar:main",
+  "id": "did:web:raw.githubusercontent.com:AbadiaA:gaiaxwebminar:main",
   "verificationMethod": [
     {
-      "id": "did:web:https://raw.githubusercontent.com:AbadiaA:gaiaxwebminar:main",
+      "id": "did:web:raw.githubusercontent.com:AbadiaA:gaiaxwebminar:main",
       "type": "JsonWebKey2020",
       "publicKeyJwk": {
         "kty": "RSA",
