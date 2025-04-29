@@ -7,3 +7,7 @@ openssl rsa -in private_key.pem -pubout -out public_key.pem
 
 # Step 4: Create a self-signed certificate using the private key
 openssl req -new -x509 -key private_key.pem -out cert.pem -days 365 -subj "/CN=example.com"
+
+
+
+https://storage-1.402000.xyz/public/gaiaxwebminar/did-doc.json

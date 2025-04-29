@@ -1,0 +1,23 @@
+{
+    "@context": [
+      "https://www.w3.org/ns/did/v1",
+      "https://w3c-ccg.github.io/lds-jws2020/contexts/v1/"
+    ],
+    "id": "did:web:https://storage-1.402000.xyz/public/gaiaxwebminar",
+    "verificationMethod": [
+      {
+        "id": "did:web:https://storage-1.402000.xyz/public/gaiaxwebminar",
+        "type": "JsonWebKey2020",
+        "publicKeyJwk": {
+          "kty": "RSA",
+          "n": "vKc6bY_XwxvOj3gtdj6o1leWygPkdqxLQ5IEPtVQwTtYyW_w-fIR5TpI-dHFIup-FbqNy6Q2ijNqL4j5VfvGDHWR1gN6kfgcbhWKUY84RSEnX6WWbf8litytrLzge7Whmryod0oOJ6Xew2C4tCAOxnuxmNjrn70oGfkvylfpyXUiJEKVxfj4khBvnyQQHa6qEJ2-BZcAA9nY8lKPc5124231vI8grm_hR4LAnzFirrf_yUpiCN1Kj49ZiENnV8oVZoDrOEfR6lFBEobwvp6VtIEp95rOuBMX7P1KKChzbmOXq8Hcavt62aa-zMK7f6Q1PxXAlgbFbv_W6z3-qLIMFQ",
+          "e": "AQAB",
+          "alg": "RS256",
+          "x5u": "https://storage-1.402000.xyz/public/gaiaxwebminar/cert.pem"
+        }
+      }
+    ],
+    "assertionMethod": [
+      "did:web:https://storage-1.402000.xyz/public/gaiaxwebminar"
+    ]
+  }
